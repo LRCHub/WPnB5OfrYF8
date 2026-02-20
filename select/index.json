@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "林檎花火とソーダの海",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-20T07:49:31.731683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "林檎花火とソーダの海",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/01_林檎花火とソーダの海_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "林檎花火とソーダの海",
+      "artist": "まふまふ feat.IA",
+      "has_synced": false,
+      "path": "select/pl_01_林檎花火とソーダの海_まふまふ_feat.IA.txt"
+    }
+  ]
+}
